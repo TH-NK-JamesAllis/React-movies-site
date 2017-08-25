@@ -1,0 +1,34 @@
+{
+  "movies": [
+    {
+        "id": 1,
+        "title": "Guardians of the Galaxy 2",
+        "shorttitle": "guardians-of-the-galaxy-2",
+        "desc": "movie 1 desc",
+        "genres":["comedy","action","sci-fi","adventure"],
+        "visible":true,
+        "image":"https://images.fandango.com/r1.0.39/ImageRenderer/300/0/redesign/static/img/noxsquare.jpg/0/images/spotlight/gotg-vol-2-cast.jpg"
+    },
+    { 
+        "id": 2,
+        "title": "Doctor Strange",
+        "shorttitle": "doctor-strange",
+        "desc": "movie 2 desc",
+        "genres":["action","adventure","sci-fi"],
+        "visible":true,
+        "image":"https://images-na.ssl-images-amazon.com/images/M/MV5BMjE5NDc5NzUwNV5BMl5BanBnXkFtZTgwMDM3MDM2NzE@._CR162,14,813,609_UX614_UY460._SY230_SX307_AL_.jpg"
+    },
+    {
+        "id": 3,
+        "title": "Beauty and the Beast",
+        "shorttitle": "beauty-and-the-beast",
+        "desc": "movie 3 desc",
+        "genres":["romance","family"],
+        "visible":true,
+        "image":"https://d2x9qb1k136yrz.cloudfront.net/wp-content/uploads/2017/03/beautyandthebeast.jpg"
+    }
+  ]
+}
+
+
+
